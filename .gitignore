@@ -1,0 +1,9 @@
+__pycache__/
+work/
+.DS_Store
+
+mri2fem-dataset/
+meshes/
+tmp/
+
+*.png
